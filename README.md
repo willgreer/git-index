@@ -1,6 +1,6 @@
 # git-index
 
-#my repo files
-#all in one place 
+# my repo files
+# all in one place 
 
 yeet
