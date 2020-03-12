@@ -1,6 +1,12 @@
 # git-index
 
-# my repo files
-# all in one place 
+my repos
+in one place
 
-yeet
+*in progress*
+
+---
+
+## small demos
+
+[testing - link does not work](git-index/../threeJS/index.html)
