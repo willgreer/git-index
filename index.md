@@ -1,11 +1,8 @@
-# Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+# Will Greer - Index
 
-nothing really
-
-chilling hard
-
-getting gigs
-
+nothing really just...
+chilling hard &
 typing fast
+
+test link
